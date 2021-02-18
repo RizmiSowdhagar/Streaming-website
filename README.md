@@ -1,7 +1,5 @@
 # PopcornFlix
 
-
-
 # Functionalities : 
            - login system : create acc, delete acc, update user details
            - watching movies/videos
@@ -23,5 +21,5 @@
 - create a "video-uploads" folder to store uploaded videos of the corresponding image.
 - enter 1st row of the table manually and transfer video and image to the respective folders.
 
-
+# Pictures :
 
